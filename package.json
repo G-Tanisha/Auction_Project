@@ -1,0 +1,20 @@
+{
+  "name": "auctionproject",
+  "version": "1.0.0",
+  "description": "A full stack mini project for Modern Application Development (CSD303A). The platform lets users register, create auctions, bid in real time, track countdown timers, and view winners when auctions close.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^7.2.0",
+    "mongoose": "^9.6.2"
+  }
+}
