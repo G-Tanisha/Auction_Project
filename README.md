@@ -107,3 +107,6 @@ npm run dev
 - Vercel/Netlify: deploy `client` and set `VITE_API_URL`, `VITE_SOCKET_URL`.
 - Docker host: use the included `docker-compose.yml`.
 
+=======
+# Auction_Project
+>>>>>>> a53cab5476cd97a35e490a4f70b903eda18dbeee
